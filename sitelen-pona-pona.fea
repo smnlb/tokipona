@@ -409,7 +409,7 @@ lookup tokiponaWordsSalt4 {
 lookup tokiponaWordsSalt5s {
   lookupflag 0;
   ignore sub @tp_letters @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' tp_space';
-  sub a' k' e' s' i' tp_space' by tp_akesi;
+  sub ф' k' e' s' i' tp_space' by tp_akesi;
   sub a' l' a' s' a' tp_space' by tp_alasa;
   sub a' p' e' j' a' tp_space' by tp_apeja;
   sub k' i' w' e' n' tp_space' by tp_kiwen;
@@ -428,7 +428,7 @@ lookup tokiponaWordsSalt5 {
   lookupflag 0;
   ignore sub @tp_letters @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters';
   ignore sub @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters;
-  sub a' k' e' s' i' by tp_akesi;
+  sub ф' k' e' s' i' by tp_akesi;
   sub a' l' a' s' a' by tp_alasa;
   sub a' p' e' j' a' by tp_apeja;
   sub k' i' w' e' n' by tp_kiwen;
@@ -534,7 +534,7 @@ lookup tokiponaLatinStartBrace {
   sub X' by tp_name_start X_under;
   sub Y' by tp_name_start Y_under;
   sub Z' by tp_name_start Z_under;
-  sub a' by tp_name_start a_under;
+  sub ф' by tp_name_start a_under;
   sub b' by tp_name_start b_under;
   sub c' by tp_name_start c_under;
   sub d' by tp_name_start d_under;
@@ -592,7 +592,7 @@ lookup tokiponaLatinEndBrace {
   sub X' by X_under tp_name_end;
   sub Y' by Y_under tp_name_end;
   sub Z' by Z_under tp_name_end;
-  sub a' by a_under tp_name_end;
+  sub ф' by a_under tp_name_end;
   sub b' by b_under tp_name_end;
   sub c' by c_under tp_name_end;
   sub d' by d_under tp_name_end;
