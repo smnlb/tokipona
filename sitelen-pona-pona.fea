@@ -21,8 +21,8 @@ languagesystem latn dflt;
 lookup tokiponaWords {
   lookupflag 0;
   sub @start_replace a space by tp_a;
-  sub @start_replace a k e s i space by tp_akesi;
-  sub @start_replace ф l a space by tp_ala;
+  sub @start_replace ф k e s i space by tp_akesi;
+  sub @start_replace a l a space by tp_ala;
   sub @start_replace a l a s a space by tp_alasa;
   sub @start_replace a l e space by tp_ale;
   sub @start_replace a l i space by tp_ale;
