@@ -1,6 +1,6 @@
 # sitelen pona pona
 
-This concept (and embedded font) adapts [sitelen pona](http://tokipona.net/tp/janpije/hieroglyphs.php) (also found in [the official toki pona book](https://www.amazon.com/gp/product/0978292308)) into a unicode-based script that can be typed or written, and attempts to tackle the following goals:
+This concept (and embedded font) adapts [sitelen pona](http://tokipona.net/tp/janpije/hieroglyphs.php) into a unicode-based script that can be typed or written, and attempts to tackle the following goals:
 
 * remove redundant information from glyphs
 * use a consistent shape inventory
